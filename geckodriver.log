@@ -1,0 +1,205 @@
+
+(firefox:16848): Gtk-WARNING **: 15:13:48.624: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:16942): Gtk-WARNING **: 15:13:49.178: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:16952): Gtk-WARNING **: 15:13:49.257: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606155229751	Marionette	INFO	Listening on port 34981
+1606155229802	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17038): Gtk-WARNING **: 15:13:50.215: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(firefox:16848): GLib-GObject-WARNING **: 15:13:51.000: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f4210b4a5f0' of type 'MaiAtkType139'
+
+(firefox:16848): GLib-GObject-WARNING **: 15:13:54.438: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f420a6f9770' of type 'MaiAtkType139'
+1606155237132	Marionette	INFO	Stopped listening on port 34981
+
+(firefox:17154): Gtk-WARNING **: 15:14:13.460: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:17243): Gtk-WARNING **: 15:14:14.006: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:17253): Gtk-WARNING **: 15:14:14.085: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606155254627	Marionette	INFO	Listening on port 41667
+1606155254767	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17343): Gtk-WARNING **: 15:14:15.022: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(firefox:17154): GLib-GObject-WARNING **: 15:14:15.347: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fba4d202470' of type 'MaiAtkType139'
+
+(firefox:17154): GLib-GObject-WARNING **: 15:14:18.884: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fba4b121fb0' of type 'MaiAtkType139'
+1606155261586	Marionette	INFO	Stopped listening on port 41667
+
+(firefox:17424): Gtk-WARNING **: 15:14:37.570: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:17511): Gtk-WARNING **: 15:14:38.113: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:17521): Gtk-WARNING **: 15:14:38.195: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606155278737	Marionette	INFO	Listening on port 37079
+1606155278883	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17606): Gtk-WARNING **: 15:14:39.149: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(firefox:17424): GLib-GObject-WARNING **: 15:14:39.494: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f76733b5d10' of type 'MaiAtkType139'
+
+(firefox:17424): GLib-GObject-WARNING **: 15:14:43.066: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f76711f60b0' of type 'MaiAtkType139'
+1606155285533	Marionette	INFO	Stopped listening on port 37079
+
+(firefox:17710): Gtk-WARNING **: 15:15:03.678: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:17793): Gtk-WARNING **: 15:15:04.229: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:17803): Gtk-WARNING **: 15:15:04.306: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606155304836	Marionette	INFO	Listening on port 45041
+1606155304856	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17893): Gtk-WARNING **: 15:15:05.259: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(firefox:17710): GLib-GObject-WARNING **: 15:15:05.387: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f0002c46f50' of type 'MaiAtkType139'
+
+(firefox:17710): GLib-GObject-WARNING **: 15:15:08.769: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f0002ca4770' of type 'MaiAtkType139'
+
+(firefox:17710): GLib-GObject-WARNING **: 15:15:11.681: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f0002ca4110' of type 'MaiAtkType139'
+1606155313919	Marionette	INFO	Stopped listening on port 45041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:17985): Gtk-WARNING **: 15:15:27.098: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:18079): Gtk-WARNING **: 15:15:27.643: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:18089): Gtk-WARNING **: 15:15:27.722: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606155328251	Marionette	INFO	Listening on port 34745
+1606155328280	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18178): Gtk-WARNING **: 15:15:28.653: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(firefox:17985): GLib-GObject-WARNING **: 15:15:29.049: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f4acc225350' of type 'MaiAtkType139'
+
+(firefox:17985): GLib-GObject-WARNING **: 15:15:32.405: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f4acb23be90' of type 'MaiAtkType139'
+
+(firefox:17985): GLib-GObject-WARNING **: 15:15:35.295: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f4acc0640b0' of type 'MaiAtkType139'
+1606155348254	Marionette	INFO	Stopped listening on port 34745
+
+(firefox:18395): Gtk-WARNING **: 15:17:18.766: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:18501): Gtk-WARNING **: 15:17:19.323: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:18511): Gtk-WARNING **: 15:17:19.402: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606155439930	Marionette	INFO	Listening on port 41473
+1606155440070	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18596): Gtk-WARNING **: 15:17:20.348: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(firefox:18395): GLib-GObject-WARNING **: 15:17:20.696: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fabd7399ef0' of type 'MaiAtkType139'
+
+(firefox:18395): GLib-GObject-WARNING **: 15:17:23.956: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fabd75afe30' of type 'MaiAtkType139'
+
+(firefox:18395): GLib-GObject-WARNING **: 15:17:26.844: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fabd73d6dd0' of type 'MaiAtkType139'
+1606155459699	Marionette	INFO	Stopped listening on port 41473
+
+(firefox:18696): Gtk-WARNING **: 15:17:52.763: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:18791): Gtk-WARNING **: 15:17:53.311: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:18801): Gtk-WARNING **: 15:17:53.392: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606155473897	Marionette	INFO	Listening on port 44083
+1606155473943	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18890): Gtk-WARNING **: 15:17:54.318: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(firefox:18696): GLib-GObject-WARNING **: 15:17:54.917: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fa3a4ffbad0' of type 'MaiAtkType139'
+
+(firefox:18696): GLib-GObject-WARNING **: 15:17:58.545: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fa3a408cf50' of type 'MaiAtkType139'
+
+(firefox:18696): GLib-GObject-WARNING **: 15:18:01.617: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fa3a4e02c50' of type 'MaiAtkType139'
+1606155494583	Marionette	INFO	Stopped listening on port 44083
+
+(firefox:19007): Gtk-WARNING **: 15:18:30.735: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:19074): Gtk-WARNING **: 15:18:31.251: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:19153): Gtk-WARNING **: 15:18:31.336: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606155511822	Marionette	INFO	Listening on port 44019
+1606155511916	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19239): Gtk-WARNING **: 15:18:32.267: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(firefox:19007): GLib-GObject-WARNING **: 15:18:32.536: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fd399682a10' of type 'MaiAtkType139'
+
+(firefox:19007): GLib-GObject-WARNING **: 15:18:36.345: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fd39810fe30' of type 'MaiAtkType139'
+
+(firefox:19007): GLib-GObject-WARNING **: 15:18:40.321: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fd397a18350' of type 'MaiAtkType139'
+
+(firefox:19007): GLib-GObject-WARNING **: 15:18:43.721: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fd398131890' of type 'MaiAtkType139'
+
+(firefox:19007): GLib-GObject-WARNING **: 15:18:46.876: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7fd3988f36b0' of type 'MaiAtkType139'
+1606155527235	Marionette	INFO	Stopped listening on port 44019
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606155578871	Marionette	INFO	Listening on port 46665
+1606155578905	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+(firefox:19665): Gtk-WARNING **: 15:19:48.146: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:19772): Gtk-WARNING **: 15:19:48.696: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:19782): Gtk-WARNING **: 15:19:48.775: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606155589321	Marionette	INFO	Listening on port 42383
+1606155589456	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19866): Gtk-WARNING **: 15:19:49.730: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(firefox:19665): GLib-GObject-WARNING **: 15:19:50.058: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f7d1c3c6e90' of type 'MaiAtkType139'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606155593914	Marionette	INFO	Stopped listening on port 42383
+
+(firefox:19953): Gtk-WARNING **: 15:20:11.262: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:20040): Gtk-WARNING **: 15:20:11.813: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:20050): Gtk-WARNING **: 15:20:11.891: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606155612435	Marionette	INFO	Listening on port 36357
+1606155612577	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20139): Gtk-WARNING **: 15:20:12.847: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(firefox:19953): GLib-GObject-WARNING **: 15:20:13.457: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f0f7ae191d0' of type 'MaiAtkType139'
+
+(firefox:19953): GLib-GObject-WARNING **: 15:20:16.757: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f0f7a8ce710' of type 'MaiAtkType139'
+
+(firefox:19953): GLib-GObject-WARNING **: 15:20:19.688: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f0f7b04f290' of type 'MaiAtkType139'
+
+(firefox:19953): GLib-GObject-WARNING **: 15:20:23.498: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f0f7ae944d0' of type 'MaiAtkType139'
+
+(firefox:19953): GLib-GObject-WARNING **: 15:20:26.571: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f0f7a8ede90' of type 'MaiAtkType139'
+
+(firefox:19953): GLib-GObject-WARNING **: 15:20:29.227: ../glib/gobject/gsignal.c:3595: signal name 'load_complete' is invalid for instance '0x7f0f7a80f8f0' of type 'MaiAtkType139'
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1207:3
+
+
+(/usr/lib/firefox/firefox:20203): Gtk-WARNING **: 15:20:29.723: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+
+(/usr/lib/firefox/firefox:20233): Gtk-WARNING **: 15:20:30.845: Theme parsing error: gtk.css:7239:46: Junk at end of value for background-color
+1606155632083	Marionette	INFO	Stopped listening on port 36357

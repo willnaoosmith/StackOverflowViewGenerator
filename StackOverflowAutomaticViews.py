@@ -2,9 +2,8 @@ from selenium.webdriver.firefox.options import Options
 from selenium import webdriver
 import time, requests
 
-user = "YourUserHere"
-password = "YourPasswordHere"
-UserID = "YourUserIdHere"
+UserLoginList = [{"User": "YourUserHere", "Password": "YourPasswordHere"}]
+UserID = "UserIDHere"
 
 url = "https://api.stackexchange.com/2.2/users/" + UserID + "/questions?order=desc&sort=activity&site=stackoverflow"
 search = requests.get(url=url, headers={'Cache-Control': 'no-cache', 'Content-Type': 'application/json'}).json() 
@@ -15,14 +14,7 @@ def generateViews(browser):
 		browser.get(link)
 		time.sleep(2)
 
-try:
-
-	options = Options()
-	options.add_argument("--headless")
-	browser = webdriver.Firefox(options=options)
-
-	generateViews(browser)
-
+def Login(browser, user, password):
 	browser.get(r'https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2f')
 	time.sleep(2)
 
@@ -31,10 +23,24 @@ try:
 	time.sleep(1)
 
 	browser.find_element_by_name('submit-button').click()
+	time.sleep(2)
+
+try:
+
+	options = Options()
+	options.add_argument("--headless")
+	browser = webdriver.Firefox(options=options)
 
 	generateViews(browser)
 
-	time.sleep(60)
+	for credential in UserLoginList:
+
+		Login(browser, credential['User'], credential['Password'])
+
+		generateViews(browser)
+
+		browser.get("https://stackoverflow.com/users/logout")
+		browser.find_element_by_xpath("//*[@class='grid--cell s-btn s-btn__primary']").click()
 
 except Exception as error:
 	browser.close()
