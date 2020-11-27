@@ -1,9 +1,9 @@
 from selenium.webdriver.firefox.options import Options
+import time, requests, json, sys
 from selenium import webdriver
-import time, requests
 
-UserLoginList = [{"User": "YourUserHere", "Password": "YourPasswordHere"}]
-UserID = "UserIDHere"
+UserLoginList = [json.loads(credential) for credential in sys.argv[1].split('|')]
+UserID = sys.argv[2]
 
 url = "https://api.stackexchange.com/2.2/users/" + UserID + "/questions?order=desc&sort=activity&site=stackoverflow"
 search = requests.get(url=url, headers={'Cache-Control': 'no-cache', 'Content-Type': 'application/json'}).json() 
