@@ -7,8 +7,6 @@ how to use:
 
 `python test.py  '{"User": "User0Here", "Password": "Password0Here"}|{"User": "User1Here", "Password": "Password1Here"}' UserIdHere`
 
-> Put the userID of the user you want to give views on the UserID variable.
-
 > Create a crontab job to run this script every 15 minutes at least (For the view to be accounted) if you want to run it on a server (That's the purpose)
 
 The crontab job to run it every 16 minutes is the following:
