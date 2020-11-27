@@ -3,11 +3,9 @@ A script to generate views on questions on StackOverflow so you can get the "Not
 how to use:
 > install selenium and geckodriver (I used geckodriver version 26 and it goes well)
  
-> put your user and password on the UserLoginList like the following model:
+> To execute it (On linux) run passing the arguments using this manner:
 
-```
-{"User": "YourUserHere", "Password": "YourPasswordHere"}
-```
+`python test.py  '{"User": "User0Here", "Password": "Password0Here"}|{"User": "User1Here", "Password": "Password1Here"}' UserIdHere`
 
 > Put the userID of the user you want to give views on the UserID variable.
 
