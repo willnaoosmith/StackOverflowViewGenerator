@@ -5,7 +5,7 @@ how to use:
  
 > To execute it (On linux) run passing the arguments using this manner:
 
-`python test.py  '{"User": "User0Here", "Password": "Password0Here"}|{"User": "User1Here", "Password": "Password1Here"}' UserIdHere`
+`python StackOverflowAutomaticViews.py  '{"User": "User0Here", "Password": "Password0Here"}|{"User": "User1Here", "Password": "Password1Here"}' UserIdHere`
 
 > Create a crontab job to run this script every 15 minutes at least (For the view to be accounted) if you want to run it on a server (That's the purpose)
 
