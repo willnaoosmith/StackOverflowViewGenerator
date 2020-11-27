@@ -43,7 +43,11 @@ try:
 		browser.find_element_by_xpath("//*[@class='grid--cell s-btn s-btn__primary']").click()
 
 except Exception as error:
+	print(error)
 	browser.close()
 
 finally:
-	browser.close()
+	try:
+		browser.close()
+	except:
+		pass
