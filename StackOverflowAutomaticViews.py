@@ -11,7 +11,6 @@ LinkList = [question['link'] for question in search['items']]
 
 def generateViews(browser):
 	for link in LinkList:
-		print(link)
 		browser.get(link)
 		time.sleep(2)
 
