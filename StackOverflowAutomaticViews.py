@@ -30,8 +30,8 @@ try:
 
 	options = Options()
 	options.add_argument("--headless")
-	browser = webdriver.Firefox(options=options)
-
+        browser = webdriver.Firefox(options=options, executable_path=r'./geckodriver')
+	
 	generateViews(browser)
 
 	for credential in UserLoginList:
