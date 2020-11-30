@@ -7,7 +7,7 @@ UserID = sys.argv[2]
 
 url = "https://api.stackexchange.com/2.2/users/" + UserID + "/questions?order=desc&sort=activity&site=stackoverflow"
 search = requests.get(url=url, headers={'Cache-Control': 'no-cache', 'Content-Type': 'application/json'}).json() 
-LinkList = [question['link'] for question in search['items']]
+LinkList = [question['link'] for question in search['items'] if question['view_count'] <= int(10000)]
 
 def generateViews(browser):
 	for link in LinkList:
@@ -29,7 +29,7 @@ try:
 
 	options = Options()
 	options.add_argument("--headless")
-        browser = webdriver.Firefox(options=options, executable_path=r'./geckodriver')
+	browser = webdriver.Firefox(options=options, executable_path=r'./geckodriver')
 	
 	generateViews(browser)
 
