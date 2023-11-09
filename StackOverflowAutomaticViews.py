@@ -46,11 +46,11 @@ try:
 		browser.find_element(By.XPATH, "//*[@class='flex--item s-btn s-btn__filled']").click()
 
 except Exception as error:
-	print(error)
-	browser.close()
+	print(error)	
 
 finally:
 	try:
-		browser.close()
+		browser.quit()
+
 	except:
 		pass
